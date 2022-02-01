@@ -1,0 +1,8 @@
+.Airport{
+    /* background: url('../Assets/Airport.png') no-repeat;
+    background-size: contain; */
+     background: url('../Assets/bg.jpg'); 
+    background-color:darkblue;
+    width: 100%;
+    height: 200%;
+}
